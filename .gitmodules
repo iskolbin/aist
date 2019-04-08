@@ -1,0 +1,6 @@
+[submodule "extern/sokol"]
+	path = extern/sokol
+	url = git@github.com:floooh/sokol
+[submodule "extern/stb"]
+	path = extern/stb
+	url = git@github.com:nothings/stb
